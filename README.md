@@ -1,5 +1,5 @@
 ## Introduction 
-This repository used for the official website of https://lebit.io, and It's includes all the features in one page;  
+This repository used for the official website of https://lebit.ai, and It's includes all the features in one page;  
 
 ## Technologies  
 * Bootstrap 4  
